@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on GenAI @DATAI (UNAV)
+- 🔭 I’m currently working on GenAI 
 - 🌱 I’m currently learning the backstage of ML/DL models
 - 📫 How to reach me: msammartino@unav.es
 
